@@ -2,7 +2,6 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <meta property="og:title" content="Renard's Blog" />
 <meta property="og:description" content="" />
-<link rel="icon" href="favicon.ico">
 </head>
 <canvas id="canvas"></canvas>
 </template>
