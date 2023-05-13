@@ -7,6 +7,7 @@ module.exports = {
             lang: 'ja'
         }
     },
+    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     themeConfig: {
         dateFormat: 'YYYY-MM-DD',
         nav: [

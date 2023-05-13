@@ -1,4 +1,8 @@
 <template>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta property="og:title" content="Renard's Blog" />
+<meta property="og:description" content="" />
+</head>
 <canvas id="canvas"></canvas>
 </template>
 
