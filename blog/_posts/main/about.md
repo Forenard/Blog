@@ -11,7 +11,7 @@ tags:
 
 <template>
 <div class="profile">
-  <img src="./about/Renard1024_icon.png"></src>
+  <img src="./about/Renard_icon.png"></src>
   <div>
     <div class="profile-head">
       <p><b>Renard/レナード/ルナール</b></p>
