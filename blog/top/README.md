@@ -21,12 +21,21 @@ canvas
 
 <script>
 export default {
-  mounted() {
+  mounted()
+  {
+    console.log("mounted");
+    can_render = true;
     onLoad();
+  },
+  beforeDestroy()
+  {
+    console.log("beforeDestroy");
+    can_render = false;
   }
 }
 
 // global
+var can_render = false;
 var screenWidth, screenHeight;
 var c, cw, ch, mx, my, gl;
 var startTime;
@@ -351,7 +360,9 @@ void main(void){
 `;
 
 // レンダリングを行う関数
-function render(){    
+function render(){
+    if(!can_render) return;
+
     // 時間管理
     time = (new Date().getTime() - startTime) * 0.001;
 
