@@ -27,13 +27,13 @@ export default {
     can_render = true;
     onLoad();
   },
-  beforeDestroy()
+  destroyed()
   {
     // console.log("beforeDestroy");
     can_render = false;
     // カラーバッファをクリア
-    gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.flush();
+    // gl.clear(gl.COLOR_BUFFER_BIT);
+    // gl.flush();
   }
 }
 

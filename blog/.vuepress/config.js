@@ -42,7 +42,7 @@ module.exports = {
             ],
         },
         sitemap: {
-            hostname: 'https://renard-blog.netlify.app/'
+            hostname: 'https://renard-blog.netlify.app'
         },
         comment: {
             service: 'disqus',
