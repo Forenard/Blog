@@ -27,14 +27,15 @@ export default {
     can_render = true;
     onLoad();
   },
-  destroyed()
+  beforeDestroy()
   {
     // console.log("beforeDestroy");
     // カラーバッファをクリア
     // gl.clear(gl.COLOR_BUFFER_BIT);
     // gl.flush();
     // 数秒後にcan_render = false;
-    setTimeout(() => {can_render = false;}, 5000);
+    // setTimeout(() => {can_render = false;}, 5000);
+    c.remove();
   }
 }
 
