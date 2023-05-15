@@ -44,5 +44,5 @@ module.exports = {
         },
         // pwa: true,
         smoothScroll: true
-    }
+    },
 }
