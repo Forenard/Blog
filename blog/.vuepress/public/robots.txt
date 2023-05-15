@@ -1,0 +1,3 @@
+User-agent : *
+Disallow :
+Sitemap : https://renard-blog.netlify.app/sitemap.xml
