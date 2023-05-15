@@ -7,7 +7,10 @@ module.exports = {
             lang: 'ja'
         }
     },
-    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }],
+        ['meta', { name: 'google-site-verification', content: '6kAYeXcFJ3jRWfNxRJKx_OKA5rdcdj7tbttkYW__QJE' }],
+    ],
     themeConfig: {
         dateFormat: 'YYYY-MM-DD',
         nav: [

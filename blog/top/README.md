@@ -23,14 +23,17 @@ canvas
 export default {
   mounted()
   {
-    console.log("mounted");
+    // console.log("mounted");
     can_render = true;
     onLoad();
   },
   beforeDestroy()
   {
-    console.log("beforeDestroy");
+    // console.log("beforeDestroy");
     can_render = false;
+    // カラーバッファをクリア
+    gl.clear(gl.COLOR_BUFFER_BIT);
+    gl.flush();
   }
 }
 
