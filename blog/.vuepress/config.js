@@ -41,9 +41,6 @@ module.exports = {
                 },
             ],
         },
-        sitemap: {
-            hostname: 'https://renard-blog.netlify.app'
-        },
         comment: {
             service: 'disqus',
             shortname: 'vuepress-plugin-blog',
