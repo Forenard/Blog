@@ -72,7 +72,6 @@ tags:
 
 ## Internship
 
-- Cygames : (2022/2-2023/3)
 - Silicon Studio : (2022/4-)
 
 ## Articles
