@@ -36,6 +36,7 @@ tags:
 - シェーダー開発
 - VR上での表現
 - ゲーム開発
+- VJ
 
 ## Skill
 
@@ -51,6 +52,9 @@ tags:
 - 東京工業大学 工学院 情報通信系 : 学士課程 (2020/4-)
 
 ## Activities
+
+- VJ at [lambda](https://twitter.com/ymgmcmc/status/1666401630651293696?s=20)
+  - [映像](https://youtu.be/iVjLUrviE9I)
 
 - [SESSIONS in C4 LAN 2023 SPRING](https://sessions.frontl1ne.net/) : GLSL Graphics Compo
   - [優勝](https://twitter.com/SESSIONS_Party/status/1652513515767488512)

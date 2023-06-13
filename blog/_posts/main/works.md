@@ -9,6 +9,17 @@ tags:
 
 <template>
     <div class='works-block'>
+        <a href="https://youtu.be/iVjLUrviE9I"><h2>VJ at lambda</h2></a>
+        <p class='works-date'>2023/06/10</p>
+        <iframe width="690" height="388" src="https://www.youtube.com/embed/iVjLUrviE9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class='works-discription'>
+            <p>GLSLで行ったVJ</p>
+            <a href="https://twitter.com/ymgmcmc/status/1666401630651293696?s=20">lambda</a>にて行った初めてのVJです<br>
+            10万文字のGLSLで書き、<a href="https://github.com/slerpyyy/sh4der-jockey">sh4der-jockey</a>でVJしました<br>
+            ソースコードは<a href="https://github.com/Forenard/VJ-at-lambda-2023-06-10">こちらです</a>
+        </div>
+    </div>
+    <div class='works-block'>
         <a href="https://renard-vrc.booth.pm/items/4755457"><h2>AvatarMotionRecorder</h2></a>
         <p class='works-date'>2023/05/07</p>
         <img src="./works/AvatarMotionRecorder.png"/>
