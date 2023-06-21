@@ -28,6 +28,7 @@ tags:
 
 - [Twitter (main)](https://twitter.com/Renardealer) : メインアカウント
 - [Twitter (sub)](https://twitter.com/Renard_VRC) : VRChat用アカウント
+- [はてなブログ](https://renard.hateblo.jp/)：技術ブログです
 - [GitHub](https://github.com/Forenard) : ライブラリや様々なソースコードを公開しています
 - [Qiita](https://qiita.com/Renard_Renard) : 技術記事を投稿しています
 
@@ -74,10 +75,8 @@ tags:
 
 - Silicon Studio : (2022/4-)
 
-## Articles
+## Others
 
-- [Audacityで得られるGlitchいろいろ](https://qiita.com/Renard_Renard/items/e23de35854dd438297d2)
-- [つぶやきGLSL　テクニック集](https://qiita.com/Renard_Renard/items/ba13b6590dfbcefa7156)
 - [つぶやきGLSLとは (PWA Night vol.44の発表資料)](https://www.slideshare.net/GearsRenard/glslpptx-253677717)
 - [【VRChat】自分のアバターにゲームを仕込んで暇潰ししよう](https://trap.jp/post/1743/)
 
