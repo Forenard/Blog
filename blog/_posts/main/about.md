@@ -77,6 +77,7 @@ tags:
 
 ## Others
 
+- [normalizeFM 44. 出演](https://twitter.com/h_doxas/status/1672162000758259712?s=20)
 - [つぶやきGLSLとは (PWA Night vol.44の発表資料)](https://www.slideshare.net/GearsRenard/glslpptx-253677717)
 - [【VRChat】自分のアバターにゲームを仕込んで暇潰ししよう](https://trap.jp/post/1743/)
 
