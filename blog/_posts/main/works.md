@@ -11,7 +11,7 @@ tags:
     <div class='works-block'>
         <a href="https://youtu.be/iVjLUrviE9I"><h2>VJ at lambda</h2></a>
         <p class='works-date'>2023/06/10</p>
-        <iframe width="690" height="388" src="https://www.youtube.com/embed/iVjLUrviE9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/iVjLUrviE9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <div class='works-discription'>
             <p>GLSLで行ったVJ</p>
             <a href="https://twitter.com/ymgmcmc/status/1666401630651293696?s=20">lambda</a>にて行った初めてのVJです<br>
@@ -101,6 +101,8 @@ function tryRemoveDisqus() {
 <style lang="stylus">
 .works-block
 {
+    position: relative;
+    overflow: hidden;
     padding: 1rem 1.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -110,6 +112,11 @@ function tryRemoveDisqus() {
     {
         width: 100%;
         height: auto;
+    }
+    iFrame
+    {
+        width: 100%;
+        height: 388px;
     }
 }
 .works-date
