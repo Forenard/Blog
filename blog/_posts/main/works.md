@@ -9,6 +9,16 @@ tags:
 
 <template>
     <div class='works-block'>
+        <a href="https://youtu.be/oa_5EYnFlvw"><h2>LiveCoding VJ 2023-08-14</h2></a>
+        <p class='works-date'>2023/08/14</p>
+        <iframe src="https://www.youtube.com/embed/oa_5EYnFlvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class='works-discription'>
+            <p>GLSLで行ったLiveCoding</p>
+            練習として、1時間のライブコーディングを配信しました。1:00:00あたりがお気に入りです。<br>
+            ソースコードは<a href="https://github.com/Forenard/LiveCodingVJ/tree/main/2023-08-14">こちらです</a>
+        </div>
+    </div>
+    <div class='works-block'>
         <a href="https://youtu.be/iVjLUrviE9I"><h2>VJ at lambda</h2></a>
         <p class='works-date'>2023/06/10</p>
         <iframe src="https://www.youtube.com/embed/iVjLUrviE9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
