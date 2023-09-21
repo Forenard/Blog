@@ -54,9 +54,6 @@ tags:
 
 ## Activities
 
-- VJ at [lambda](https://twitter.com/ymgmcmc/status/1666401630651293696?s=20)
-  - [映像](https://youtu.be/iVjLUrviE9I)
-
 - [SESSIONS in C4 LAN 2023 SPRING](https://sessions.frontl1ne.net/) : GLSL Graphics Compo
   - [優勝](https://twitter.com/SESSIONS_Party/status/1652513515767488512)
   - [作品](https://www.youtube.com/watch?v=xTWGxKEn7jw)
@@ -77,6 +74,7 @@ tags:
 
 ## Others
 
+- [SESSIONSクリエイターインタビュー](https://youtu.be/TDD5gfUi5-o?si=G_oe8_mrxgVUOuBJ)
 - [C102 シェーダーを紹介する合同誌を頒布](https://twitter.com/Renard_VRC/status/1686357375476019200?s=20)
 - [normalizeFM 44. 出演](https://twitter.com/h_doxas/status/1672162000758259712?s=20)
 - [つぶやきGLSLとは (PWA Night vol.44の発表資料)](https://www.slideshare.net/GearsRenard/glslpptx-253677717)

@@ -6,8 +6,27 @@ tags:
 ---
 
 ---
-
 <template>
+    <div class='works-block'>
+        <a href="https://youtu.be/XsAXXQ0V9kk?si=dDmfkSCYVVsTD_1S"><h2>シェーダー解説 </h2></a>
+        <p class='works-date'>2023/09/08</p>
+        <iframe src="https://www.youtube.com/embed/XsAXXQ0V9kk?si=uKAzZzjmK_2HaKdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class='works-discription'>
+            <p>シェーダーの解説</p>
+            シェーダーの解説動画を出しています<br>
+        </div>
+    </div>
+    <div class='works-block'>
+        <a href="https://youtu.be/P_dGCuVyJ6s"><h2>VJ at WIRETAP VOL. 2</h2></a>
+        <p class='works-date'>2023/09/08</p>
+        <iframe src="https://www.youtube.com/embed/P_dGCuVyJ6s?si=G11g32nOgXRBwlRW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div class='works-discription'>
+            <p>GLSLで行ったVJ</p>
+            <a href="https://x.com/Pod_VRC/status/1696595884769939607?s=20">WIRETAP VOL. 2</a>にて行ったVJです<br>
+            GLSLだけでなく、AI生成の画像や実写映像なども用いてみました<br>
+            ソースコードは<a href="https://github.com/Forenard/VJ-at-WIRETAP-2023-09-08">こちらです</a>
+        </div>
+    </div>
     <div class='works-block'>
         <a href="https://youtu.be/oa_5EYnFlvw"><h2>LiveCoding VJ 2023-08-14</h2></a>
         <p class='works-date'>2023/08/14</p>
