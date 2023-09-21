@@ -8,6 +8,14 @@ tags:
 ---
 <template>
     <div class='works-block'>
+        <a href="https://x.com/Renard_VRC/status/1703392065332367395?s=20"><h2>まるい街</h2></a>
+        <p class='works-date'>2023/09/17</p>
+        <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/VRChat_world%E7%B4%B9%E4%BB%8B?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat_world紹介</a> <a href="https://twitter.com/hashtag/VRChat%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E7%B4%B9%E4%BB%8B?src=hash&amp;ref_src=twsrc%5Etfw">#VRChatワールド紹介</a><br>まるい街を作りました<br>ぜひ<a href="https://t.co/rda3T7Zb4X">https://t.co/rda3T7Zb4X</a> <a href="https://t.co/1bZrvBagXG">pic.twitter.com/1bZrvBagXG</a></p>&mdash; Renard_VRC (@Renard_VRC) <a href="https://twitter.com/Renard_VRC/status/1703392065332367395?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div class='works-discription'>
+            <p>世界が歪むVRChatのワールド</p>
+        </div>
+    </div>
+    <div class='works-block'>
         <a href="https://youtu.be/XsAXXQ0V9kk?si=dDmfkSCYVVsTD_1S"><h2>シェーダー解説 </h2></a>
         <p class='works-date'>2023/09/08</p>
         <iframe src="https://www.youtube.com/embed/XsAXXQ0V9kk?si=uKAzZzjmK_2HaKdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
